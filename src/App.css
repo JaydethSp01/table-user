@@ -1,0 +1,28 @@
+.bg {
+  background-color: rgb(252, 139, 10);
+  padding: 7px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.table {
+  width: 100%;
+}
+.inicio,
+.fin {
+  font-size: 15px;
+}
+
+.ojo {
+  border-radius: 45px;
+}
+
+.input-group {
+  width: 60%;
+}
+
+.container {
+  padding: 50px;
+}
